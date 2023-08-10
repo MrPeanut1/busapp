@@ -5,19 +5,19 @@
 // gestures. You can also use WidgetTester to find child widgets in the widget
 // tree, read text, and verify that the values of widget properties are correct.
 
-import 'package:busapp/main.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 import 'package:busapp/Login.dart';
 =======
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 790e44d (Login authentication)
 import 'package:busapp/main.dart';
 >>>>>>> parent of 31ad28b (fixed)
 
-=======
->>>>>>> Stashed changes
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
