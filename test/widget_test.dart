@@ -11,6 +11,7 @@ import 'package:flutter_test/flutter_test.dart';
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import 'package:busapp/Login.dart';
 =======
 <<<<<<< Updated upstream
@@ -18,6 +19,9 @@ import 'package:busapp/Login.dart';
 >>>>>>> parent of 790e44d (Login authentication)
 import 'package:busapp/main.dart';
 >>>>>>> parent of 31ad28b (fixed)
+=======
+import 'package:busapp/main.dart';
+>>>>>>> parent of 790e44d (Login authentication)
 =======
 import 'package:busapp/main.dart';
 >>>>>>> parent of 790e44d (Login authentication)
