@@ -56,14 +56,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-<<<<<<< Updated upstream
-
-=======
-  assets:
-    - assets/
-
-  
->>>>>>> Stashed changes
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
@@ -73,10 +65,6 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
-<<<<<<< Updated upstream
-=======
-  
->>>>>>> Stashed changes
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
